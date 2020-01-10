@@ -1,0 +1,1 @@
+announce route 184.164.224.0/24 next-hop self attribute [0xff 0xe0 0xacd9bdc6ec73138ff06dedc752115a913c0e8b8c1ebeaaf272d58392835e5b57]
